@@ -1,0 +1,42 @@
+% This is a sample map
+% All lines beginning with % are ignored and can be used for comments
+% All whitespace and empty lines is also ignored.
+% Maps are expected to be rectangular and you may get weird results if they aren't
+%Symbols meaning:
+% W - Wall
+% 0 - Empty tile
+% P - Player spawn point
+% N - Npc spawn point
+% x - Point
+% u - Power up
+% f - Fruit
+
+W W W W W W W W W W W W W W W W W W W W W W W W W W W W W 
+W 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 W 
+W 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 W 
+W 0 0 W W W W W W W W W W 0 0 0 W W W W W W W W W W 0 0 W 
+W 0 0 W f f x x x x x x x 0 0 0 x x x x x x x f f W 0 0 W 
+W 0 0 W f W W W W W W W W 0 0 0 W W W W W W W W f W 0 0 W 
+W 0 0 W x W 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 W x W 0 0 W 
+W 0 0 W x W 0 0 W W x x W W x W W x x W W 0 0 W x W 0 0 W 
+W 0 0 W x W 0 0 W W W W W W x W W W W W W 0 0 W x W 0 0 W 
+W 0 0 W x W 0 0 x x W W x x x x x W W x x 0 0 W x W 0 0 W 
+W 0 0 W x W 0 W W x W W 0 W W W 0 W W x W W 0 W x W 0 0 W 
+W 0 0 W x W 0 x W x 0 0 0 W f W 0 0 0 x W x 0 W x W 0 0 W 
+W 0 0 W x W 0 x W x 0 0 0 W x W 0 0 0 x W x 0 W x W 0 0 W 
+W 0 0 0 0 0 0 W W x W W 0 W x W 0 W W x W W 0 0 0 0 0 0 W 
+W 0 0 0 0 0 0 0 0 x W W 0 0 P 0 0 W W x 0 0 0 0 0 0 0 0 W 
+W 0 0 0 0 0 0 W W x W W 0 W x W 0 W W x W W 0 0 0 0 0 0 W 
+W 0 0 W x W 0 x W x 0 0 0 W x W 0 0 0 x W x 0 W x W 0 0 W 
+W 0 0 W x W 0 x W x 0 0 0 W f W 0 0 0 x W x 0 W x W 0 0 W 
+W 0 0 W x W 0 W W x W W 0 W W W 0 W W x W W 0 W x W 0 0 W 
+W 0 0 W x W 0 0 x x W W x x x x x W W x x 0 0 W x W 0 0 W 
+W 0 0 W x W 0 0 W W W W W W x W W W W W W 0 0 W x W 0 0 W 
+W 0 0 W x W 0 0 W W x x W W x W W x x W W 0 0 W x W 0 0 W 
+W 0 0 W x W 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 N W x W 0 0 W 
+W 0 0 W f W W W W W W W W 0 0 0 W W W W W W W W f W 0 0 W 
+W 0 0 W f f x x x x x x x 0 0 0 x x x x x x x f f W 0 0 W 
+W 0 0 W W W W W W W W W W 0 0 0 W W W W W W W W W W 0 0 W 
+W 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 W 
+W 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 W 
+W W W W W W W W W W W W W W W W W W W W W W W W W W W W W 

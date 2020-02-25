@@ -1,0 +1,22 @@
+% This is a sample map used for testing
+% All lines beginning with % are ignored and can be used for comments
+% All whitespace and empty lines is also ignored.
+% Maps are expected to be rectangular and you may get weird results if they aren't
+%Symbols meaning:
+% W - Wall
+% 0 - Empty tile
+% P - Player spawn point
+% N - Npc spawn point
+% x - Point
+% u - Power up
+% f - Fruit
+
+%DO NOT EDIT!!
+
+W W W W W W W
+W x 0 P 0 x W
+W x W W W x W
+W x f N u x W
+W x W W W x W
+W x 0 P 0 x W
+W W W W W W W

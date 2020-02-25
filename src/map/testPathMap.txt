@@ -1,0 +1,11 @@
+% OBS, rör ej.
+% Används för path_finder testerna!!
+
+W W W W W W W W
+W N x x x x x W
+W x x x x x x W
+W x x x x x x W
+W W W W W W x W
+W W W W W W x W
+W P x x x x x W
+W W W W W W W W
